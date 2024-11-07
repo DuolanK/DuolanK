@@ -1,4 +1,3 @@
-mrgeras, [07.11.24 12:59]
 <div  align="center">
   
 ### Привет!👋
@@ -42,7 +41,7 @@ mrgeras, [07.11.24 12:59]
 </div>
 
 
-mrgeras, [07.11.24 12:59]
+
 ### Среда разработки:
 <div  align="center">  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
