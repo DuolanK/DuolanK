@@ -9,7 +9,6 @@ mrgeras, [07.11.24 12:59]
 
 
 
-### <div align="center">Мой Email: igeras404@gmail.com</div>
 
 <div id="badges"  align="center">
   
