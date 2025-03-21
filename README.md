@@ -5,7 +5,9 @@
 </br>
 ✨I am a web developer✨
 Feel free to see my non-business projects and code examples. Also you can visit my website
-✨duolank.com✨
+<a href="https://duolank.com">
+    ✨duolank.com✨
+</a>
 </div>
 
 
