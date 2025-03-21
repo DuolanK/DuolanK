@@ -12,7 +12,9 @@ Feel free to see my non-business projects and code examples. Also you can visit 
 
 
 <div id="badges"  align="center">
+  
 ### You can ask your questions and wishes here! 
+  
 ### Social networks:
 <a href="https://t.me/Duo1an">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
