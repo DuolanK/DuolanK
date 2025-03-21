@@ -1,9 +1,9 @@
 <div  align="center">
   
-### Привет!👋
-### Меня зовут Дуолан!✨
+### Hello there!👋
+### My name is Duolan!✨
 </br>
-✨Я, Web разработчик✨
+✨I am a web developer✨
 </div>
 
 
@@ -43,6 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="VSCode" alt="phpstorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="VSCode" alt="pycharm" width="40" height="40"/>&nbsp;
 </div>
-
+Joke of the year:
 Why do communists prefer functional programming?
 Because they want to be stateless and classless
