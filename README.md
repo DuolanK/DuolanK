@@ -4,14 +4,16 @@
 ### My name is Duolan!✨
 </br>
 ✨I am a web developer✨
+Feel free to see my non-business projects and code examples. Also you can visit my website
+✨duolank.com✨
 </div>
 
 
 
 
 <div id="badges"  align="center">
-  
-### Социальные сети:
+### You can ask your questions and wishes here! 
+### Social networks:
 <a href="https://t.me/Duo1an">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
@@ -19,7 +21,7 @@
 
 
   
-### Стек:
+### Stack:
 <div  align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -36,7 +38,7 @@
 
 
 
-### Среда разработки:
+### Development environment:
 <div  align="center">  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
